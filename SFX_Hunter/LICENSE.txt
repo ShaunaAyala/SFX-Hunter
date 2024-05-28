@@ -1,0 +1,5 @@
+LICENSE
+
+Free to use for original intended use as a sound pack for the LibSharedMedia addon for World of Warcraft.
+
+All rights otherwise reserved.
