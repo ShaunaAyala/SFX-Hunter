@@ -24,7 +24,7 @@ This addon supports the following Hunter spell sounds:
 
 ## Download
 
-You can download the latest release of this addon from GitHub:
+You can download the latest release of this addon:
 
 [![Latest Release](https://img.shields.io/github/v/release/ShaunaAyala/SFX-Hunter)](https://github.com/ShaunaAyala/SFX-Hunter/releases/latest)
 
