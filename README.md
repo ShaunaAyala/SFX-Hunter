@@ -22,3 +22,10 @@ This addon supports the following Hunter spell sounds:
 17. Trap Launcher
 18. Wyvern Sting Shot
 
+## Download
+
+You can download the latest release of this addon from GitHub:
+
+[![Latest Release](https://img.shields.io/github/v/release/ShaunaAyala/SFX-Hunter)](https://github.com/ShaunaAyala/SFX-Hunter/releases/latest)
+
+Enjoy the enhanced auditory feedback for your Hunter abilities!
