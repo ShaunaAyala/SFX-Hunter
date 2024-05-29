@@ -29,14 +29,6 @@ This addon supports the following Hunter spell sounds:
 3. Copy the extracted folder to the following directory: 
 C:\Program Files (x86)\World of Warcraft_classic_\Interface\AddOns
 
-### WeakAura Installation
-
-1. Go to the following WeakAura page: [Hunter Spell Sounds WeakAura](https://wago.io/AtyNnXJe1).
-2. Click on the "Copy WeakAura Import String" button.
-3. In the game, open the WeakAura interface by typing `/wa` in the chat.
-4. Click on the "Import" button.
-5. Paste the copied string into the import window and click "Import".
-
 ## Download
 
 You can download the latest release of this addon:
