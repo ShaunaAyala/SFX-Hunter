@@ -26,7 +26,8 @@ This addon supports the following Hunter spell sounds:
 
 1. Download the addon.
 2. Extract the contents of the zip file.
-3. Copy the extracted folder to the following directory: C:\Program Files (x86)\World of Warcraft_classic_\Interface\AddOns
+3. Copy the extracted folder to the following directory: 
+C:\Program Files (x86)\World of Warcraft_classic_\Interface\AddOns
 
 ### WeakAura Installation
 
