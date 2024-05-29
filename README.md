@@ -18,7 +18,6 @@ This addon supports the following Hunter spell sounds:
 14. Raptor Strike
 15. Serpent Sting Shot
 16. Steady Shot
-17. Trap Launcher
 18. Wyvern Sting Shot
 
 ### Addon Installation
