@@ -1,4 +1,4 @@
-# Supported Hunter Spell Sounds
+# SFX Hunter (Retail sound for Cataclysm)
 To ensure the addon functions correctly, you must also have the following WeakAura installed: [Hunter Spell Sounds WeakAura](https://wago.io/AtyNnXJe1). This WeakAura integrates with the addon to provide the enhanced auditory feedback for your Hunter abilities.
 
 This addon supports the following Hunter spell sounds:
