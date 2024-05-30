@@ -1,4 +1,5 @@
 # SFX Hunter (Retail sound for Cataclysm)
+![Banner](https://raw.githubusercontent.com/ShaunaAyala/SFX-Hunter/main/SFX%20Hunter%20Banner.jpg)
 
 This addon supports the following Hunter spell sounds:
 
